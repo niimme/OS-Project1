@@ -4,9 +4,6 @@
 *.exe
 *.app
 
-# Documents
-*.pdf
-
 # macOS system files
 .DS_Store
 ._*
