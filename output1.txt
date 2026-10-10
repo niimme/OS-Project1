@@ -1,0 +1,20 @@
+Time 0-3: P1, from Q0, preempted
+Time 3-8: P2, from Q0, terminated
+Time 8-15: P1, from Q0 to Q1
+Time 15-20: P1, from Q1 to Q2
+Time 20-25: P1, from Q2, terminated
+
+Response Time
+P1 = 0
+P2 = 0
+
+Turnaround Time
+P1 = 25
+P2 = 5
+
+Waiting Time
+P1 = 5
+P2 = 0
+
+CPU Utilization Rate
+25/25

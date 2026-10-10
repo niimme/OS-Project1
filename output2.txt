@@ -1,0 +1,21 @@
+Time 0-5: P1, from Q0 to Q1
+Time 5-6: P1, from Q1, terminated
+Time 6-10: Idle
+Time 10-15: P2, from Q0 to Q1
+Time 15-20: P2, from Q1 to Q2
+Time 20-25: P2, from Q2, terminated
+
+Response Time
+P1 = 0
+P2 = 0
+
+Turnaround Time
+P1 = 6
+P2 = 15
+
+Waiting Time
+P1 = 0
+P2 = 0
+
+CPU Utilization Rate
+21/25

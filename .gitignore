@@ -1,0 +1,9 @@
+# Compiled Object files and executables
+*.o
+*.out
+*.exe
+*.app
+
+# macOS system files
+.DS_Store
+._*
